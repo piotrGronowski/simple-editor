@@ -1,4 +1,4 @@
-![cover](https://github.com/piotrGronowski/simple-editor/tree/master/src/assets/img/simpleEditor.jpg)
+![cover](https://github.com/piotrGronowski/simple-editor/tree/master/src/assets/img/simpleEditor.jpg?raw=true)
 
 # Simple Editor
 
