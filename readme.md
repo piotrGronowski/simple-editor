@@ -1,18 +1,16 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://github.com/piotrGronowski/simple-editor/tree/master/src/assets/img/simpleEditor.png)
 
-# WTF Webpack Starter Kit 
+# Simple Editor
 
-Simple toolkit for your static websites development.
+Simple editor don't come easy.
 
 ## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+It isn't for using. It is for learning.
+I am learning frontend things and english too.
 
-## Available scripts
+## Available options
 
-`npm run start` - runs development mode
+`SAVE button` - press and save your text.
 
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
-
+`LOAD button` - press and load previous saved text.
