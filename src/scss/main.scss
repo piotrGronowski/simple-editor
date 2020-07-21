@@ -6,8 +6,22 @@
 body {
   background: $wtf;
   color: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
+  padding: 10vw;
+}
+.editor {
+  &__description {
+    display: block;
+  }
+  &__text {
+    min-width: 80vw;
+    min-height: 50vh;
+  }
+}
+.button__save {
+  min-width: 10vw;
+  margin-right: 5vw;
+  margin-left: 45vw;
+}
+.button__load {
+  min-width: 10vw;
 }
